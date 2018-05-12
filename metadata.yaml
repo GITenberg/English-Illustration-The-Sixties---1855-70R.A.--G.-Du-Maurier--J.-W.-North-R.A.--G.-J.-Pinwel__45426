@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25976
     wikipedia: http://en.wikipedia.org/wiki/Gleeson_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45426#English-Illustration-The-Sixties---1855-70R.A.--G.-Du-Maurier--J.-W.-North-R.A.--G.-J.-Pinwel_
 gutenberg_issued: '2014-04-17'
 gutenberg_type: Text
 identifiers:
